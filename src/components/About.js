@@ -32,7 +32,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./images/me.jpg"
+            src=".\images\killua-zoldyck-5120x2880-10722.png"
           />
         </div>
       </div>
